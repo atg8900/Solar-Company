@@ -72,7 +72,7 @@ a{
   color: var(--paragraph-color);
 }
 h2{
-  font-weight: 600px;
+  font-weight: 600;
   font-size: 42px;
  }
 ::selection{
